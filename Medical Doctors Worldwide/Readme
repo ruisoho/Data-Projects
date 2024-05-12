@@ -1,1 +1,35 @@
+--- English Version ---
 
+This project involves several steps: 
+• Started with taking information off internet-based resource sites to find the proper data set. Subsequently, the information compiled is Clean and Edited before being visualized using Power BI. 
+
+• The data comes from the WHO website (https: who. source: (http://intdata.cdc.gov/citieshealthprofile/data/themes/topics/health-workforce/) and tertiary but reliable. As the data comes in the CSV format, it has unstructured facts without any formatting, or the columns or rows are either separated or aligned unusually. 
+
+• To solve this issue, MS Excel was used for cleanup and conversion processes. To begin with, I created a new blank page and then the ¨From text/CSV¨ option was selected in the “Data” menu. 
+
+• Under the import menu, you choose the File’s origin along with the Delimiter(in this case a comma), and split the data type into a separate column. A significant Excel table was then produced and had to be cleaned and transformed.
+
+• Cleaning and Transforming Data can be a long process that needs full attention to details, one small mistake and the data can end up compromised and not with the result it should make it biased in a way.
+
+• Importing the Data to PowerBi is straightforward once we save the Excel File as .XLSX.
+
+• With the Table Imported I was able to decide what I wanted to present which is the development of Medical Doctors Worldwide, with Maps, Bar chart and a Line chart it is easy to show and present the evolution between 1952 and 2020.
+
+--- German Version --
+
+Dieses Projekt umfasst mehrere Phasen: 
+• Zunächst wurden Informationen aus Internetquellen entnommen, um den richtigen Datensatz zu finden. Anschließend werden die gesammelten Informationen bereinigt und aufbereitet, bevor sie mit Power BI visualisiert werden. 
+
+• Die Daten stammen von der WHO-Website (https: who. source: (http://intdata.cdc.gov/citieshealthprofile/data/themes/topics/health-workforce/) und sind tertiär, aber zuverlässig. 
+  Da die Daten im CSV-Format vorliegen, enthalten sie unstrukturierte Fakten ohne jegliche Formatierung, oder die Spalten oder Zeilen sind entweder getrennt oder ungewöhnlich ausgerichtet. 
+
+• Um dieses Problem zu lösen, wurde MS Excel für die Bereinigung und Konvertierung verwendet. Zu Beginn habe ich eine neue leere Seite erstellt und dann im Menü „Daten“ die Option ¨Von Text/CSV¨ gewählt. 
+
+• Unter dem Importmenü wählt man den Ursprung der Datei zusammen mit dem Trennzeichen (in diesem Fall ein Komma) und teilt den Datentyp in eine separate Spalte auf.
+  Es entstand eine umfangreiche Excel-Tabelle, die bereinigt und transformiert werden musste.
+
+• Das Bereinigen und Transformieren von Daten kann ein langer Prozess sein, bei dem man auf die Details achten muss. Ein kleiner Fehler kann dazu führen, dass die Daten beeinträchtigt werden und nicht das Ergebnis liefern, das sie in gewisser Weise voreingenommen machen sollte.
+
+• Das Importieren der Daten in PowerBi ist einfach, wenn man die Excel-Datei als .XLSX speichert.
+
+• Mit der importierten Tabelle konnte ich entscheiden, was ich präsentieren wollte, nämlich die Entwicklung der Ärzte weltweit. Mit Karten, Balkendiagrammen und einem Liniendiagramm ist es einfach, die Entwicklung zwischen 1952 und 2020 zu zeigen und zu präsentieren.
